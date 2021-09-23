@@ -1,2 +1,4 @@
 # Donut-model-blender
-Donut created using blender and rendered in Eevee engine.
+
+### To use this model
+Download the blender software and use the dount-latest.blend file to see the dount.
